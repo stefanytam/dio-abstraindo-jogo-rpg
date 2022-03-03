@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "29OzEsrYSxW20z8gRn7MWCw5413KwxISc6RmniNHhBSKr9F3Fhjx4gUndmQ0cJCaBKZEiWurlkk5Qdi8umjuDw==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\dio-rpg\\dio-rpg\\dio-rpg.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefa\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
